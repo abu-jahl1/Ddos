@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@abu-jahl1 
-ABUJAHL
-/
-facebook-cracker
-48
-168257
-Code
-Issues
-16
-Pull requests
-8
-Actions
-Projects
-Wiki
-Security
-Insights
-facebook-cracker/facebook.py /
-@Ha3MrX
-ABUJAHL Add files via upload
-Latest commit 1593a41 on Sep 20, 2018
- History
- 1 contributor
-88 lines (64 sloc)  2.3 KB
-  
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
@@ -96,13 +64,13 @@ def search():
 def welcome():
 	wel = """
         +=========================================+
-        |..........   Facebook Hack    ...........|
+        |..........   Facebook Crack   ...........|
         +-----------------------------------------+
         |            #Author: ABUJAHL             | 
-        |	           SNAPCHAT:ITZ_TAMO            |
-      	|                                         |
+        |	     SNAPCHAT:ITZ_TAMO            |
+ 	|                                         |
         +=========================================+
-        |..........  Facebook Hacker   ...........|
+        |..........  Facebook Cracker  ...........|
         +-----------------------------------------+\n\n
 """
 	total = open(passwordlist,"r")
@@ -115,16 +83,3 @@ def welcome():
 	
 if __name__ == '__main__':
 	main()
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
